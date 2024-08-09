@@ -1,0 +1,5 @@
+{
+	"csv_file": "2.csv", 
+	"log": "log.txt", 
+	"output_dir": "downloaded"
+}
